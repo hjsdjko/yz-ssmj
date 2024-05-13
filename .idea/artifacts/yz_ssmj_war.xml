@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yz-ssmj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="yz-ssmj.war">
+      <element id="artifact" artifact-name="yz-ssmj:war exploded" />
+    </root>
+  </artifact>
+</component>
